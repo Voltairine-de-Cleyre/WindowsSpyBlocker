@@ -6,7 +6,7 @@ require (
 	github.com/0xrawsec/golang-evtx v1.2.4
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/akavel/rsrc v0.8.0 // indirect
-	github.com/akyoto/color v1.8.11
+	github.com/akyoto/color v1.8.12
 	github.com/cavaliercoder/grab v1.0.0
 	github.com/cevaris/ordered_map v0.0.0-20170213161328-531fd444821a
 	github.com/djherbis/times v1.2.0 // indirect
@@ -18,5 +18,5 @@ require (
 	github.com/mcuadros/go-version v0.0.0-20190308113854-92cdf37c5b75
 	github.com/miekg/dns v1.1.31
 	github.com/pkg/errors v0.9.1
-	golang.org/x/sys v0.0.0-20191025090151-53bf42e6b339
+	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1
 )
